@@ -1,3 +1,4 @@
+# WARNING this software is not longer mantained, it has been moved [here](https://github.com/TheNaoX/dotfiles)
 # TheNaoX/Gh-dotfiles 
 ## Bash config useful to Mac OS X and any linux distribution...
 
